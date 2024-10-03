@@ -24,7 +24,8 @@ body {
 
 .sidebar {
     border-radius: 0.5em;
-    background: linear-gradient(90deg, #ffffff 0%, #707070 25%, #707070 50%, #707070 75%, #ffffff 100%);
+    background: rgba(0, 0, 0, 0.145);
+    padding-top: 10px;
 }
 
 .card a {
@@ -82,5 +83,9 @@ footer img{
 }
 #pozvoni img{
     max-width: 100px;
+}
+
+a.btn.btn-primary{
+    color: beige;
 }
 
