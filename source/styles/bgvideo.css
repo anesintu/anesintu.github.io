@@ -38,3 +38,10 @@
 .video-text h1{
     font-size: 100px;
 }
+
+@media (max-width: 540px) {
+    .video-text h1{
+        font-size: 60px;
+        text-align: center;
+    }
+}
